@@ -1,0 +1,6 @@
+NET clk_rbpi LOC=F15;
+NET direction LOC=K15;
+NET dataIn LOC=E2;
+NET dataOut LOC=F3;
+
+NET "clk_rbpi" CLOCK_DEDICATED_ROUTE = FALSE;
